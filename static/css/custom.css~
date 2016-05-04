@@ -27,18 +27,7 @@ donorschooseProjects.forEach(function(d) {
 var ndx = crossfilter(donorschooseProjects);
 */
 
-#number-projects-nd {
-    font-size: 60px;
-}
 
-#total-donations-nd {
-    font-size: 60px;
-}
-
-.dc-chart g.row text {
-    fill: black;
-    font-size: 12px;
-}
 
 
 
